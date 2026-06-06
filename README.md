@@ -2,7 +2,11 @@
 
 Telecom companies lose significant revenue to customer churn. This project analyzes churn behavior across **7,043 customers** using SQL for data extraction and transformation, and Power BI for interactive dashboard development. The objective is to identify high-risk customer segments and surface actionable retention strategies. Technologies used include **SQL Server**, **Power BI Desktop**, **Power Query (M)**, and **DAX**. The dashboard enables business stakeholders to reduce churn-driven revenue loss through data-driven decision-making.
 
+---
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/bhavishgupta/Customer-Churn-Analysis-and-Retention-Analytics/blob/main/customer_churn_analysis_dashboard.png)
 
 
 ---
